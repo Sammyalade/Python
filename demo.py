@@ -1,0 +1,3 @@
+name = "blessing"
+
+print(name)
